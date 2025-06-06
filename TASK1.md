@@ -3,8 +3,6 @@ OSI or the Open Systems Interconnection model is a set of rules and protocols th
 
 Each layer in the OSI model interacts with the layers immediately above and below it, encapsulating it and transmitting data in an organized manner. This method assists network specialists in troubleshooting difficulties since faults may be isolated to a single layer. The OSI model serves as a universal language for networking, allowing diverse systems to interact successfully. 
 
-The OSI model was the first standard for network communications, and all major computer and telecommunications firms embraced it in the early 1980s. It was introduced in 1983 by representatives from major computer and telecommunications firms, and ISO accepted it as an international standard in 1984.
-
 ## The OSI model consists of the following seven layers 
 Application Layer (Layer 7)
 
