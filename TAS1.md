@@ -19,4 +19,8 @@ Network Layer (Layer3)
 Data Link Layer Layer 2)
 
 Physical Layer (Layer 1)
-![image alt](image_url)
+
+![image alt](https://github.com/RAJUSKANDPAL/WEEK-1/blob/582ec9d41c483de67f012633320be41fd98d56b8/1%20OSI.webp)
+
+## Application Layer
+![image alt](
