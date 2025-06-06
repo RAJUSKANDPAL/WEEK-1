@@ -358,8 +358,25 @@ The Physical Layer performs modulation, bit synchronization, and transmission of
      The Physical Layer manages data timing and flow to prevent transmission mistakes and inefficiencies.  
      **(a) Synchronization** makes sure that the transmitter and receiver are in sync and that the bits are properly understood. For example, synchronization in              video streaming minimizes delays or distortions in audio and visual playing.  
      **(b) Flow Control** regulates the speed differential between the transmitter and receiver to guarantee seamless communication.
-    For example, with USB connection, the data transfer rate is changed according to the capacity of the connected device.
+    For example, with USB connection, the data transfer rate is changed according to the capacity of the connected device.  
     
+## References
+[devx](https://www.devx.com/terms/netware-core-protocol)  
+[gfg](https://www.geeksforgeeks.org/session-layer-in-osi-model)  
+[ibm](https://www.ibm.com/docs/en/zos/2.4.0%3Ftopic%3Dprintway-converting-between-ebcdic-ascii-extended-mode)  
+[techtarget](https://www.techtarget.com/searchsecurity/definition/Secure-Sockets-Layer-SSL)  
+[stringly](https://www.strikingly.com/blog/posts/power-ssl-encryption-everything-you-need-to-know)  
+[ibm](https://www.ibm.com/docs/en/aix/7.2.0%3Ftopic%3Dconcepts-external-data-representation)  
+[huwaei](https://forum.huawei.com/enterprise/en/mpls-oam-protection-switching/thread/667258324107804672-667213852955258880)  
+[linkedin](https://www.linkedin.com/pulse/data-semantics-guide-tech-debt-javid-ur-rahaman-aydwc)  
+[extrahop](https://www.extrahop.com/resources/protocols/nfs)  
+[techtarget](https://www.techtarget.com/searchnetworking/definition/SNMP)  
+[uri](https://its.uri.edu/services/94530c3ed6b267ca2f277f48a691602d1ebc0dd2c6)  
+[portnox](https://www.portnox.com/cybersecurity-101/dynamic-host-configuration-protocol-dhcp)  
+[wikipedia](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)  
+[tcpguide](http://www.tcpipguide.com/free/t_TelnetCommunicationsModelandtheNetworkVirtualTermi-2.htm)  
+[imperva](https://www.imperva.com/learn/application-security/osi-model)  
+[webopedia](https://www.webopedia.com/definitions/7-layers-of-osi-model/)  
 
 
 
