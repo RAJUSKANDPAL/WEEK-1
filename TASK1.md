@@ -313,7 +313,7 @@ Works with local area networks (LANs) to connect many devices.
 Operates at the Data Link Layer, forwarding frames depending on MAC addresses.
 Used to minimize network traffic and segment networks.
 
-**3.Network Interface Cards (NICs)**A network interface card (NIC) is a hardware component found in devices such as computers and printers.
+**3.Network Interface Cards (NICs)** A network interface card (NIC) is a hardware component found in devices such as computers and printers.
 Responsible for assigning MAC addresses to frames and ensuring correct network connectivity.
 Operates at the Data Link Layer, preparing and transmitting frames via the physical media.
 
