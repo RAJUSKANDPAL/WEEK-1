@@ -112,7 +112,7 @@ It uses the system's physical address to map the transmission path across the ne
 **Application Layer**  
  The data is sent to the relevant program (for example, a browser shows a web page).  
  
- ![image alt](https://github.com/RAJUSKANDPAL/WEEK-1/blob/9b68c8193142138e9d271ab09c39adf4e8161f40/8.avif)
+ ![image alt](https://github.com/RAJUSKANDPAL/WEEK-1/blob/9b68c8193142138e9d271ab09c39adf4e8161f40/7.webp)
 
 ## Why is TCP/IP used over the OSI model?
 **Simpler structure.**  
@@ -174,12 +174,46 @@ DNS translates human-readable domain names (like www.celebaltech.com) into IP ad
 **Function:** Resolves domain names to IP addresses.  
 **Port:** Uses UDP port 53 (and TCP for larger queries).  
 
+## OSI Model vs. TCP IP Model
+![image alt](https://github.com/RAJUSKANDPAL/WEEK-1/blob/9b68c8193142138e9d271ab09c39adf4e8161f40/8.avif)  
 
+| TCP/IP MODEL                                                                   | OSI MODEL                                                          |   
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| TCP/IP model comprises 4 layers.                                               | The OSI model consists of 7 layers.                                |
+|                                                                                |                                                                    | 
+| This model comprises a session and presentation layer in the application layer | The OSI model has separate session and presentation layers         |   
+|                                                                                |                                                                    |  
+|                                                                                |                                                                    |  
+| The transport layer in this model provides a packet delivery protocol.         | In this model the transport layer does not have any such protocols |   
+|                                                                                |                                                                    |   
+| This model is implemented during network communication.                        | This model is used as a reference model for the network channel    |   
+|                                                                                |                                                                    | 
 
+ ## Uses of TCP/IP    
+ Here are some of the most useful applications of TCP/IP models:  
+1.The World Wide Web uses TCP/IP to transport data between web browsers and servers.  
+2.Email applications like Outlook, Thunderbird, and Gmail employ TCP/IP protocols to send and receive messages.  
+3File Transfer: FTP, SFTP, and other file transfer services use TCP/IP to send files from one computer to another.  
+3.Networking: TCP/IP connects computers in a network.  
+4.VPNs employ TCP/IP to encrypt data before it is transmitted over a public or private network.    
+5.Internet of Things: Many smart home devices communicate and send data using TCP/IP.  
+6.Voice Over Internet Protocol (VOIP): VOIP services like Skype and Google Voice use TCP/IP to send calls over the internet.  
 
+## References  
+[GFG](https://www.geeksforgeeks.org/tcp-ip-model)  
+[Quizlet](https://quizlet.com/study-guides/tcp-ip-model-a665e1a2-923d-4017-950a-7c5b50234215)  
+[Techtarget](https://www.techtarget.com/searchnetworking/definition/TCP-IP)  
+[Linkedin](https://www.linkedin.com/posts/uche-okosa-6816ba234_cybersecuritylearning-activity-7217829979718361089-_YkK)  
+[Quizlet](https://quizlet.com/gb/693190407/web-protocols-flash-cards)  
+[Simplelearn](https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-tcp-ip-model)  
+[Checkpoint](https://www.checkpoint.com/cyber-hub/network-security/what-is-the-osi-model-understanding-the-7-layers/osi-model-vs-tcp-ip-model)  
+[Imperva](https://www.imperva.com/learn/application-security/osi-model)  
+[IBM](https://www.ibm.com/think/topics/osi-model)  
+[Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)  
+[Vdocipher](https://www.vdocipher.com/blog/how-does-streaming-work)  
+[Amazon](https://aws.amazon.com/what-is/smtp)  
+[Study CCNA](https://study-ccna.com/osi-tcp-ip-models/)  
 
-
- 
 
 
 
