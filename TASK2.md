@@ -193,11 +193,11 @@ DNS translates human-readable domain names (like www.celebaltech.com) into IP ad
  Here are some of the most useful applications of TCP/IP models:  
 1.The World Wide Web uses TCP/IP to transport data between web browsers and servers.  
 2.Email applications like Outlook, Thunderbird, and Gmail employ TCP/IP protocols to send and receive messages.  
-3File Transfer: FTP, SFTP, and other file transfer services use TCP/IP to send files from one computer to another.  
-3.Networking: TCP/IP connects computers in a network.  
-4.VPNs employ TCP/IP to encrypt data before it is transmitted over a public or private network.    
-5.Internet of Things: Many smart home devices communicate and send data using TCP/IP.  
-6.Voice Over Internet Protocol (VOIP): VOIP services like Skype and Google Voice use TCP/IP to send calls over the internet.  
+**3.File Transfer:** FTP, SFTP, and other file transfer services use TCP/IP to send files from one computer to another.  
+**4.Networking:** TCP/IP connects computers in a network.  
+**5.VPNs** employ TCP/IP to encrypt data before it is transmitted over a public or private network.    
+**6.Internet of Things:** Many smart home devices communicate and send data using TCP/IP.  
+**7.Voice Over Internet Protocol (VOIP):** VOIP services like Skype and Google Voice use TCP/IP to send calls over the internet.  
 
 ## References  
 [GFG](https://www.geeksforgeeks.org/tcp-ip-model)  
