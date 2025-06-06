@@ -23,4 +23,8 @@ Physical Layer (Layer 1)
 ![image alt](https://github.com/RAJUSKANDPAL/WEEK-1/blob/582ec9d41c483de67f012633320be41fd98d56b8/1%20OSI.webp)
 
 ## Application Layer
+![image alt](https://github.com/RAJUSKANDPAL/WEEK-1/blob/7d7a9a2f6be7b5e9b57f9bafdeaecb72e8f5ed5c/2%20APPL.webp)
+
+The Application Layer connects end-user apps to the network's underlying services.This layer offers protocols and services used directly by end-user applications to communicate over the network. The Application Layer's key capabilities are resource sharing, remote file access, and network administration.
+
 ![image alt](
