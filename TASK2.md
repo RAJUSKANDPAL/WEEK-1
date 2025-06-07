@@ -34,7 +34,12 @@ The two main protocols in the IP suite serve specific functions and have numerou
 
 4.IP is limited by the amount of data it can send. The maximum size of a single IP data packet, which contains both the header and the data, is between 20 and 24 bytes. This means that longer strings of data must be broken into multiple data packets that have to be sent independently and then reorganized into the correct order.
 
-5.It provides the mechanism for delivering data from one network node to another.
+5.It provides the mechanism for delivering data from one network node to another.  
+
+## How does TCP/IP work?  
+When you send something over the internet – a message, a photo, or a file — the TCP/IP architecture separates the data into packets using a four-layer protocol. The data passes through these layers in one sequence, then in reverse order when it is reassembled on the receiving end.  
+!
+
  
 ## Layers of TCP/IP Model
 In contrast to the OSI model, which has seven layers, TCP/IP has four interconnected ones. Each layer does a certain task with the data that is being broadcast over the network channel, and data passes from one layer to the next.
