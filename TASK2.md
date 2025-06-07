@@ -218,7 +218,8 @@ DNS translates human-readable domain names (like www.celebaltech.com) into IP ad
 [Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)  
 [Vdocipher](https://www.vdocipher.com/blog/how-does-streaming-work)  
 [Amazon](https://aws.amazon.com/what-is/smtp)  
-[Study CCNA](https://study-ccna.com/osi-tcp-ip-models/)  
+[Study CCNA](https://study-ccna.com/osi-tcp-ip-models/)   
+[Avg](https://www.avg.com/en/signal/what-is-tcp-ip)
 
 
 
