@@ -38,7 +38,9 @@ The two main protocols in the IP suite serve specific functions and have numerou
 
 ## How does TCP/IP work?  
 When you send something over the internet – a message, a photo, or a file — the TCP/IP architecture separates the data into packets using a four-layer protocol. The data passes through these layers in one sequence, then in reverse order when it is reassembled on the receiving end.  
-!
+![image alt](https://github.com/RAJUSKANDPAL/WEEK-1/blob/0cdc30cf4cfb5ba09b3bf62cc5b098a9c79c8c32/9.webp)  
+
+The TCP/IP approach is effective because the entire process is standardized. Without standardization, communication would go wild and slow things down—and fast internet service is dependent on efficiency. The TCP/IP model, which is a global standard, is one of the most efficient ways to send data across the internet
 
  
 ## Layers of TCP/IP Model
